@@ -1600,14 +1600,14 @@
     <div class="container">
       <div class="row">
         <div class="4u 12u(mobile)">
-          <article class="box style2"><a href="yogaschoolofindia.com.au" class="image featured"><img src="images/yoga.png" alt=""></a>
-            <h3><a href="yogaschoolofindia.com.au">Yoga School</a></h3>
+          <article class="box style2"><a href="yogaschoolofindia.com.au" target="_blank" class="image featured"><img src="images/yoga.png" alt=""></a>
+            <h3><a href="yogaschoolofindia.com.au" target="_blank">Yoga School</a></h3>
             <p>Custom  frontend and  backend  development</p>
           </article>
         </div>
         <div class="4u 12u(mobile)">
-          <article class="box style2"><a href="http://www.gxpeople.com/" class="image featured"><img src="images/gxpeople.png" alt=""></a>
-            <h3><a href="http://www.gxpeople.com/">gxpeople</a></h3>
+          <article class="box style2"><a href="http://www.gxpeople.com/" target="_blank" class="image featured"><img src="images/gxpeople.png" alt=""></a>
+            <h3><a href="http://www.gxpeople.com/" target="_blank">gxpeople</a></h3>
             <p>This site in yii framework with bootstrap</p>
           </article>
         </div>
@@ -1620,9 +1620,21 @@
       </div>
       <div class="row">
         <div class="4u 12u(mobile)">
-          <article class="box style2"><a href="wojooh.com" class="image featured"><img src="images/wojooh.png" alt=""></a>
-            <h3><a href="wojooh.com">Wojooh</a></h3>
+          <article class="box style2"><a href="https://www.wojooh.com/" target="_blank" class="image featured"><img src="images/wojooh.png" alt=""></a>
+            <h3><a href="https://www.wojooh.com/" target="_blank">Wojooh</a></h3>
             <p>Backend Magento Development with custom frontend design</p>
+          </article>
+        </div>
+        <div class="4u 12u(mobile)">
+          <article class="box style2"><a href="http://reesha.ae" target="_blank" class="image featured"><img src="images/reesha.png" alt=""></a>
+            <h3><a href="http://reesha.ae"  target="_blank">Reesha</a></h3>
+            <p>Backend Magento Development with custom frontend design</p>
+          </article>
+        </div>
+        <div class="4u 12u(mobile)">
+          <article class="box style2"><a href="http://efocus.store" class="image featured"><img src="images/efocus_store.png"  target="_blank" alt=""></a>
+            <h3><a href="http://efocus.store"  target="_blank">Focus</a></h3>
+            <p>Backend yii framework Development with custom frontend design</p>
           </article>
         </div>
 
@@ -1696,11 +1708,11 @@
           <h3>Find me on ...</h3>
           <ul class="social">
             <!--<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>-->
-            <li><a href="https://www.facebook.com/MilindDaraniya" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+            <li><a href="https://www.facebook.com/MilindDaraniya" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
             <!--<li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li>-->
-            <li><a href="https://www.linkedin.com/profile/preview?locale=en_US&trk=prof-0-sb-preview-primary-button" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+            <li><a href="https://www.linkedin.com/in/milind-daraniya" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
             <!--<li><a href="#" class="icon fa-tumblr"><span class="label">Tumblr</span></a></li>-->
-            <li><a href="https://plus.google.com/111543418712996554287" class="icon fa-google-plus"><span class="label">Google+</span></a></li>
+            <li><a href="https://plus.google.com/111543418712996554287" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
             <!--<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>-->
           </ul>
           <hr>
