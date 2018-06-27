@@ -45,6 +45,7 @@ $(document).ready(function () {
                  data: $(form).serialize(),
                  success: function (response) {
                  	var res = JSON.parse(response);
+                    console.info(response);
              
                  	if(res.result == true){
                  		$(form).html("<div id='message'></div>");
