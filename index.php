@@ -1,5 +1,15 @@
 <html>
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121903223-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-121903223-1');
+</script>
+
 <title>Home</title>
 <link href="assets/css/bootstrap.min.css">
 <script src="assets/js/jquery.min.js"></script>
